@@ -10,6 +10,8 @@
 
 <p align="left"> <a href="https://twitter.com/sebastiandreyer" target="blank"><img src="https://img.shields.io/twitter/follow/sebastiandreyer?logo=twitter&style=for-the-badge" alt="sebastiandreyer" /></a> </p>
 
+<p align="left"> <a rel="me" href="https://fosstodon.org/@SebastianDreyer"><img src="https://fosstodon.org/packs/media/images/logo-33a0fb4c065a0ccb90b51fcfdea6b3cf.svg" alt="SebastianDreyer" style="width:75px;height:75px;"/></a> </p>
+
 <!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
